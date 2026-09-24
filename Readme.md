@@ -1,6 +1,5 @@
 # Customer Churn Prediction Using Deep Learning
-
-A deep learning project that predicts whether a bank customer is likely to churn based on their demographic and banking information.
+A customer churn prediction project using an Artificial Neural Network (ANN) built with TensorFlow and Keras, with Scikit-learn for data preprocessing and Streamlit for deployment.
 
 ## Live Demo
 
