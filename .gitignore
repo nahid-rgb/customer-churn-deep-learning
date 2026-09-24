@@ -4,7 +4,6 @@ __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
 logs/
-model_artifacts/
 .env
 .DS_Store
 Thumbs.db
